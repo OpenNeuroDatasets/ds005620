@@ -1,0 +1,13 @@
+﻿filename	acq_time
+eeg/sub-1045_task-awake_acq-EC_eeg.vhdr	2020-02-27T13:58:51.922019Z
+eeg/sub-1045_task-awake_acq-EO_eeg.vhdr	2020-02-27T13:52:52.322839Z
+eeg/sub-1045_task-awake_acq-tms_eeg.vhdr	2020-02-27T14:06:55.339580Z
+eeg/sub-1045_task-sed2_acq-rest_run-1_eeg.vhdr	2020-02-27T15:29:42.744695Z
+eeg/sub-1045_task-sed2_acq-rest_run-2_eeg.vhdr	2020-02-27T16:05:13.703266Z
+eeg/sub-1045_task-sed2_acq-rest_run-3_eeg.vhdr	2020-02-27T16:41:06.686967Z
+eeg/sub-1045_task-sed_acq-rest_run-1_eeg.vhdr	2020-02-27T15:23:32.109444Z
+eeg/sub-1045_task-sed_acq-rest_run-2_eeg.vhdr	2020-02-27T15:58:23.146723Z
+eeg/sub-1045_task-sed_acq-rest_run-3_eeg.vhdr	2020-02-27T16:34:34.826299Z
+eeg/sub-1045_task-sed_acq-tms_run-1_eeg.vhdr	2020-02-27T15:29:42.744695Z
+eeg/sub-1045_task-sed_acq-tms_run-2_eeg.vhdr	2020-02-27T16:05:13.703266Z
+eeg/sub-1045_task-sed_acq-tms_run-3_eeg.vhdr	2020-02-27T16:41:06.686967Z
