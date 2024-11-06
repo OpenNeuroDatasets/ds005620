@@ -15,10 +15,11 @@
     "EthicsApprovals": [
         "Approved by the Regional Committees for Medical Research Ethics South East Norway (REK), ref. 2015/1520"
     ],
-    "License": "CC-BY-4.0",
+    "License": "CC0",
     "Affiliations": {
         "1": "University of Oslo, Department of Molecular Medicine, Physiology, Oslo, 0317, Norway",
         "2": "Vestre Viken, Kongsberg Hospital, Kongsberg, 3612, Norway",
         "3": "University Stuttgart, Stuttgart Center for Simulation Science, 70174 Stuttgart, Germany"
-    }
+    },
+    "DatasetDOI": "doi:10.18112/openneuro.ds005620.v1.0.0"
 }
