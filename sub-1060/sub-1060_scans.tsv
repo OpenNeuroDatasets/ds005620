@@ -1,0 +1,13 @@
+﻿filename	acq_time
+eeg/sub-1060_task-awake_acq-EC_eeg.vhdr	2012-01-01T02:37:08.672391Z
+eeg/sub-1060_task-awake_acq-EO_eeg.vhdr	2012-01-01T02:31:24.987773Z
+eeg/sub-1060_task-awake_acq-tms_eeg.vhdr	2012-01-01T02:44:08.544278Z
+eeg/sub-1060_task-sed2_acq-rest_run-1_eeg.vhdr	2012-01-01T04:36:40.005648Z
+eeg/sub-1060_task-sed2_acq-rest_run-2_eeg.vhdr	2012-01-01T05:13:16.928684Z
+eeg/sub-1060_task-sed2_acq-rest_run-3_eeg.vhdr	2012-01-01T05:44:48.768474Z
+eeg/sub-1060_task-sed_acq-rest_run-1_eeg.vhdr	2012-01-01T04:16:03.489035Z
+eeg/sub-1060_task-sed_acq-rest_run-2_eeg.vhdr	2012-01-01T04:54:42.573713Z
+eeg/sub-1060_task-sed_acq-rest_run-3_eeg.vhdr	2012-01-01T05:27:38.354630Z
+eeg/sub-1060_task-sed_acq-tms_run-1_eeg.vhdr	2012-01-01T04:25:45.716857Z
+eeg/sub-1060_task-sed_acq-tms_run-2_eeg.vhdr	2012-01-01T05:00:20.558254Z
+eeg/sub-1060_task-sed_acq-tms_run-3_eeg.vhdr	2012-01-01T05:33:16.179169Z
